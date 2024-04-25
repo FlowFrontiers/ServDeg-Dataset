@@ -11,7 +11,7 @@ This repository is organized to facilitate easy access to the datasets, scripts,
    *Title: Dataset and Artifacts for Service Degradation Detection: Dataset Analysis, Foundational Concepts, and Preparatory Considerations*  
    This notebook provides detailed information on the datasets used and the supporting artifacts related to foundational concepts in service degradation. It also discusses preparatory considerations necessary for the analysis.
 
-2. **[SSD_Meth_ResGen_Verif](SSD_Meth_ResGen_Verif.ipynb)**  
+2. **[SSD_Meth_ResGen_Verif](SDD_Meth_ResGen_Verif.ipynb)**  
    *Title: Methodology for Service Degradation and Verification of Results Generalization*  
    This notebook outlines the statistical techniques used for identifying service degradation events and the methods to verify the generalization of our results.
 
