@@ -7,11 +7,11 @@ Welcome to the supporting page for the manuscript titled, _"Unveiling Latency-In
 This repository is organized to facilitate easy access to the datasets, scripts, and analytical results used in our study. Below is a guide to the repository's structure:
 
 ### Notebooks
-1. **[SD_DS_Art_FC_PC](SD_DS_Art_FC_PC.ipynb)**  
+1. **[SSD_DS_Art_FC_PC](SSD_DS_Art_FC_PC.ipynb)**  
    *Title: Dataset and Artifacts for Service Degradation Detection: Dataset Analysis, Foundational Concepts, and Preparatory Considerations*  
    This notebook provides detailed information on the datasets used and the supporting artifacts related to foundational concepts in service degradation. It also discusses preparatory considerations necessary for the analysis.
 
-2. **[SD_Meth_ResGen_Verif](SD_Meth_ResGen_Verif.ipynb)**  
+2. **[SSD_Meth_ResGen_Verif](SSD_Meth_ResGen_Verif.ipynb)**  
    *Title: Methodology for Service Degradation and Verification of Results Generalization*  
    This notebook outlines the statistical techniques used for identifying service degradation events and the methods to verify the generalization of our results.
 
