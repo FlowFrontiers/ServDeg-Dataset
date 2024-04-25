@@ -7,7 +7,7 @@ Welcome to the supporting page for the manuscript titled, _"Unveiling Latency-In
 This repository is organized to facilitate easy access to the datasets, scripts, and analytical results used in our study. Below is a guide to the repository's structure:
 
 ### Notebooks
-1. **[SSD_DS_Art_FC_PC](SSD_DS_Art_FC_PC.ipynb)**  
+1. **[SSD_DS_Art_FC_PC](SDD_DS_Art_FC_PC.ipynb)**  
    *Title: Dataset and Artifacts for Service Degradation Detection: Dataset Analysis, Foundational Concepts, and Preparatory Considerations*  
    This notebook provides detailed information on the datasets used and the supporting artifacts related to foundational concepts in service degradation. It also discusses preparatory considerations necessary for the analysis.
 
